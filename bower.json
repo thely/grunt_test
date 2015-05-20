@@ -1,0 +1,22 @@
+{
+  "name": "test_proj",
+  "version": "0.0.0",
+  "description": "A test project",
+  "authors": [
+    "Becky Brown"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "susy": "~2.2.5"
+  },
+  "devDependencies": {
+    "breakpoint-sass": "~2.5.0"
+  }
+}
